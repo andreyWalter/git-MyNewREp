@@ -1,5 +1,5 @@
-Print(new print);
-Print(Hello world):
+1
+2
 
 
 addd to me
