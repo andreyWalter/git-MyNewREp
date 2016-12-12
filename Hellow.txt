@@ -1,2 +1,2 @@
 Print(new print);
-my try walte
+Print(Hello my world):
