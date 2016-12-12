@@ -1,2 +1,2 @@
 Print(new print);
-Print(Hello world):
+Print(Hello my world):
